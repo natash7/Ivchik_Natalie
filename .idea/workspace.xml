@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4aa9544-b952-47bb-9fae-c04af547d2d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Ivchik_Natalie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Addition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Addition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Addition/site.by/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Addition/site.by/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base3.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base1/index.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1kIMQ2pJGuMFDwQuky8mMQL9DTk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.base2.html">
+    <configuration name="base1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ivchik_Natalie/Home_SC1-79-20/04_HTML/Base/base1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="base2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ivchik_Natalie/Home_SC1-79-20/04_HTML/Base/base2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ivchik_Natalie/Home_SC1-79-20/03_HTML/Base/Base2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ivchik_Natalie/Home_SC1-79-20/03_HTML/Base/Base3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Ivchik_Natalie/Home_SC1-79-20/03_HTML/Addition/site.by/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.base2.html" />
+        <item itemvalue="JavaScript Debug.base1.html" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4aa9544-b952-47bb-9fae-c04af547d2d4" name="Default Changelist" comment="" />
+      <created>1605383636668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605383636668</updated>
+      <workItem from="1605383642169" duration="5515000" />
+      <workItem from="1605439477379" duration="959000" />
+      <workItem from="1605441086989" duration="6489000" />
+      <workItem from="1605483845676" duration="588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
