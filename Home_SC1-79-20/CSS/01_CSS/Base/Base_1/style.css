@@ -1,0 +1,11 @@
+.screen{
+    font-family: sans-serif;
+    font-size: 14px;
+    background-color: #eee;
+}
+.print{
+    font-family: serif;
+    font-size: 55px;
+    color: #fff;
+    background-color: #000;
+}
