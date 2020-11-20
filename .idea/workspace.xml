@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4aa9544-b952-47bb-9fae-c04af547d2d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Ivchik_Natalie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Addition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Addition/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/01_HTML/Base/Base3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Addition/site.by/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Addition/site.by/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add01.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add02.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add03.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add03.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +71,8 @@
       <workItem from="1605439477379" duration="959000" />
       <workItem from="1605441086989" duration="6489000" />
       <workItem from="1605483845676" duration="588000" />
+      <workItem from="1605556816540" duration="896000" />
+      <workItem from="1605871247045" duration="915000" />
     </task>
     <servers />
   </component>
