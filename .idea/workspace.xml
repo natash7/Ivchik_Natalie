@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4aa9544-b952-47bb-9fae-c04af547d2d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/03_HTML/Base/Base3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add01.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add02.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add03.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Addition/add03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home_SC1-79-20/04_HTML/Base/base3.html" afterDir="false" />
-    </list>
+    <list default="true" id="d4aa9544-b952-47bb-9fae-c04af547d2d4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +64,7 @@
       <workItem from="1605483845676" duration="588000" />
       <workItem from="1605556816540" duration="896000" />
       <workItem from="1605871247045" duration="915000" />
+      <workItem from="1606159150220" duration="640000" />
     </task>
     <servers />
   </component>

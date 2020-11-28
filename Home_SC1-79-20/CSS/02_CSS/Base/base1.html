@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>3_cards</title>
+  <!--разрешение картинки 571*2577 (4 шт по горизонтали, 13 шт по вертикали
+    значит размер одной карты примерно 143*198
+  стилевое свойство size (фон и размеры) единое для трех карт -  выносим в head, выстраиваем в ряд-->
+  <style>
+    .size {
+      background-image: url('cards.png');
+      width: 143px;
+      height: 198px;
+      display:inline-block;
+    }
+  </style>
+</head>
+
+<body>
+  <!--создаем 3 дива для каждой карты-->
+  <!--Первая карта 3 крести
+  смещение влево и вверх на одну карту : на 143 (-х) и на 198 (-y)-->
+  <div class="size" style="background-position: -143px -198px">
+  </div>
+
+  <!--Вторая карта 5 чирвей
+  смещение влево на 3 и вверх на 3 карты : на 143*3 (-х) и на 198*3 (-y), маржин слева -2/3 карты ~100-->
+  <div class="size" style="background-position: -430px -596px; margin-left: -100px">
+  </div>
+
+  <!--Третья карта 9 бубей
+  смещение влево на 2 и вверх на 7 карт : на 143*2 (-х) и на 198*7 (-y), маржин слева -2/3 карты ~100-->
+  <div class="size" style="background-position: -285px -1393px; margin-left: -102px">
+  </div>
+
+</body>
+
+</html>
